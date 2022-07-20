@@ -1,4 +1,7 @@
 # Cookbook Forkify
+
+You can test this application here: https://cookbook-forkify.netlify.app/
+
 An application in which you can view more than 1,000,000 recipes and also create your own. You can search for a recipe and a lot of results are shown, which are gathered by an API.
 You can bookmark a recipe, also.
 On this application, you can view:
